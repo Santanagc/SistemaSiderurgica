@@ -1,0 +1,10 @@
+﻿  MainProcess.cpp
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(898,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(915,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(932,26): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(872): warning C4715: 'alarmID_Format': nem todos os caminhos de controle retornam um valor
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(888): warning C4715: 'DIAG_Format': nem todos os caminhos de controle retornam um valor
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(905): warning C4715: 'P_INT_Format': nem todos os caminhos de controle retornam um valor
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(922): warning C4715: 'P_INJ_Format': nem todos os caminhos de controle retornam um valor
+C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\MainProcess.cpp(939): warning C4715: 'TEMP_Format': nem todos os caminhos de controle retornam um valor
+  MainProcess.vcxproj -> C:\Users\Gustavo Santana\Desktop\Etapa 2 - TP\TP_Siderurgica\MainProcess\x64\Debug\MainProcess.exe

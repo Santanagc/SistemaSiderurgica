@@ -1,0 +1,264 @@
+﻿  MainProcess.cpp
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(142,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(142,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(142,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(143,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(143,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(143,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(146,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(146,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(146,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(147,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(147,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(147,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(150,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(150,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(150,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(151,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(151,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(151,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(154,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(154,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(154,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(155,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(155,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(155,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(158,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(158,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(158,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(159,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(159,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(159,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(162,27): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(162,59): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(162,27): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(163,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(163,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(163,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(166,14): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [11]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(166,45): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(166,14): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [11])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(167,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(167,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(167,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(170,15): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [14]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(170,47): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(170,15): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [14])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(171,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(171,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(171,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(174,25): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [22]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(174,57): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(174,25): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [22])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(175,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(175,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(175,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(178,14): error C2664: 'HANDLE CreateEventW(LPSECURITY_ATTRIBUTES,BOOL,BOOL,LPCWSTR)': não é possível converter um argumento 4 de 'const char [16]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(178,46): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(440,1): message : consulte a declaração de 'CreateEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(178,14): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [16])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(179,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(179,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(179,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(182,18): error C2664: 'HANDLE CreateMutexW(LPSECURITY_ATTRIBUTES,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [13]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(182,43): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(400,1): message : consulte a declaração de 'CreateMutexW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(182,18): message : ao tentar corresponder a lista de argumentos '(int, int, const char [13])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(183,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(183,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(183,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(184,20): error C2664: 'HANDLE CreateSemaphoreW(LPSECURITY_ATTRIBUTES,LONG,LONG,LPCWSTR)': não é possível converter um argumento 4 de 'const char [18]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(184,52): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(748,1): message : consulte a declaração de 'CreateSemaphoreW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(184,20): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [18])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(185,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(185,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(185,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(186,21): error C2664: 'HANDLE CreateSemaphoreW(LPSECURITY_ATTRIBUTES,LONG,LONG,LPCWSTR)': não é possível converter um argumento 4 de 'const char [19]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(186,51): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(748,1): message : consulte a declaração de 'CreateSemaphoreW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(186,21): message : ao tentar corresponder a lista de argumentos '(int, int, int, const char [19])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(187,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(187,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(187,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(188,19): error C2664: 'HANDLE CreateMutexW(LPSECURITY_ATTRIBUTES,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [14]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(188,44): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(400,1): message : consulte a declaração de 'CreateMutexW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(188,19): message : ao tentar corresponder a lista de argumentos '(int, int, const char [14])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(189,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(189,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(189,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(194,12): error C2664: 'BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)': não é possível converter um argumento 1 de 'const char [45]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(194,26): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(385,1): message : consulte a declaração de 'CreateProcessW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(194,12): message : ao tentar corresponder a lista de argumentos '(const char [45], int, int, int, int, int, int, int, STARTUPINFO *, PROCESS_INFORMATION *)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(204,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(204,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(204,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(208,12): error C2664: 'BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)': não é possível converter um argumento 1 de 'const char [42]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(208,26): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(385,1): message : consulte a declaração de 'CreateProcessW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(208,12): message : ao tentar corresponder a lista de argumentos '(const char [42], int, int, int, int, int, int, int, STARTUPINFO *, PROCESS_INFORMATION *)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(218,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(218,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(218,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(229,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(229,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(229,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(239,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(239,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(239,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(249,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(249,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(249,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(259,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(259,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(259,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(265,14): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': não é possível converter um argumento 1 de 'const char [24]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(265,25): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(92,1): message : consulte a declaração de 'CreateFileW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(265,14): message : ao tentar corresponder a lista de argumentos '(const char [24], long, int, int, int, int, int)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(272,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(272,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(272,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(280,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(280,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(280,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(285,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(285,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(285,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(290,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(290,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(290,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(295,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(295,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(295,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(300,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(300,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(300,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(305,4): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(305,4): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(305,4): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(312,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(312,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(312,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(345,3): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(345,3): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(345,3): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(349,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(349,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(349,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(352,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(352,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(352,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(355,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(355,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(355,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(358,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(358,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(358,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(361,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(361,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(361,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(364,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(364,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(364,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(367,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(367,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(367,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(370,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(370,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(370,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(373,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(373,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(373,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(376,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(376,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(376,2): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(418,6): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(418,6): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(418,6): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(428,6): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(428,6): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(428,6): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(468,7): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(468,7): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(468,7): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(470,7): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(470,7): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(470,7): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(537,6): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(537,6): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(537,6): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(547,6): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(547,6): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(547,6): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(586,7): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(586,7): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(586,7): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(588,7): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(588,7): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(588,7): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(709,5): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [89]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(709,5): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(709,5): message : ao tentar corresponder a lista de argumentos '(const char [89], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(784,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(805,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\MainProcess\MainProcess.cpp(826,26): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados

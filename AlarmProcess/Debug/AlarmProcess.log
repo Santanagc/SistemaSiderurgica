@@ -1,0 +1,57 @@
+﻿  AlarmProcess.cpp
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(69,14): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [11]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(69,49): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(69,14): message : ao tentar corresponder a lista de argumentos '(long, int, const char [11])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(70,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(70,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(70,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(72,12): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(72,47): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(72,12): message : ao tentar corresponder a lista de argumentos '(long, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(73,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(73,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(73,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(75,25): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [22]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(75,60): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(75,25): message : ao tentar corresponder a lista de argumentos '(long, int, const char [22])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(76,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(76,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(76,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(78,14): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [16]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(78,49): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(78,14): message : ao tentar corresponder a lista de argumentos '(long, int, const char [16])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(79,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(79,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(79,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(82,14): error C2664: 'HANDLE CreateMailslotW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES)': não é possível converter um argumento 1 de 'const char [24]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(83,4): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(2554,1): message : consulte a declaração de 'CreateMailslotW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(82,14): message : ao tentar corresponder a lista de argumentos '(const char [24], int, DWORD, int)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(87,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(87,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(87,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(133,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(133,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(133,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(136,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(136,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(136,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(139,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(139,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(139,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(142,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [91]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(142,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\AlarmProcess\AlarmProcess.cpp(142,2): message : ao tentar corresponder a lista de argumentos '(const char [91], long)'

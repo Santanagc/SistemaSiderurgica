@@ -1,0 +1,25 @@
+﻿  DataViewProcess.cpp
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(64,14): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [11]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(64,49): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(64,14): message : ao tentar corresponder a lista de argumentos '(long, int, const char [11])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(65,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [97]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(65,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(65,2): message : ao tentar corresponder a lista de argumentos '(const char [97], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(67,12): error C2664: 'HANDLE OpenEventW(DWORD,BOOL,LPCWSTR)': não é possível converter um argumento 3 de 'const char [9]' em 'LPCWSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(67,47): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(466,1): message : consulte a declaração de 'OpenEventW'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(67,12): message : ao tentar corresponder a lista de argumentos '(long, int, const char [9])'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(68,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [97]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(68,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(68,2): message : ao tentar corresponder a lista de argumentos '(const char [97], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(100,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [97]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(100,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(100,2): message : ao tentar corresponder a lista de argumentos '(const char [97], long)'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(103,2): error C2664: 'void CheckReturn(LPSTR,int)': não é possível converter um argumento 1 de 'const char [97]' em 'LPSTR'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(103,2): message : A conversão da cadeia de caracteres literal perde o qualificador const (consulte /Zc:strictStrings)
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\CheckForError.h(15,15): message : consulte a declaração de 'CheckReturn'
+C:\Users\Gustavo Santana\Desktop\ATR Projetos\TP_Siderurgica\DataViewProcess\DataViewProcess.cpp(103,2): message : ao tentar corresponder a lista de argumentos '(const char [97], long)'
